@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
 
-from re import T
 import sys
-from zipfile import ZipFile
 import os
-import zipfile
+from zipfile import ZipFile
 
 
 def list_to_str(lst: list) -> str:
